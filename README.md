@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sharadsingh0303
-- 👀 I’m interested in python AND JAVA
+- 👀 I’m interested in python, AI, ML.
 - 🌱 I’m currently learning python
 - 📫 How to reach me sharad34356@gmail.com
 
