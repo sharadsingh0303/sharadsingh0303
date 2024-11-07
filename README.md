@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharadsingh0303
-- 👀 I’m interested in python, AI, ML.
-- 🌱 I’m currently learning python
+- 👀 I’m interested in DevOPs, AWS, Python.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me sharad34356@gmail.com
 
 <!---
